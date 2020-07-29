@@ -1,3 +1,16 @@
+# react-frases-breaking-bad-api
+
+Proyecto que obtiene frases de breaking bad de la api https://breaking-bad-quotes.herokuapp.com/v1/quotes
+
+### Url productiva: https://dreamy-bartik-8af471.netlify.app/
+
+# Tecnologías Usadas
+
+- Html
+- Css
+- Javascript
+- React: Functional componentes, useState, useEffect, styled components, etc.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
