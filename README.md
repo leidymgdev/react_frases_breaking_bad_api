@@ -9,7 +9,7 @@ Proyecto que obtiene frases de breaking bad de la api https://breaking-bad-quote
 - Html
 - Css
 - Javascript
-- React: Functional componentes, useState, useEffect, styled components, etc.
+- React: Functional componentes, useState, useEffect, styled components, fetch, etc.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
